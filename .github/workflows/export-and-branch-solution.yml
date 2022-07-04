@@ -26,7 +26,7 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: https://make.powerapps.com/environments/e53e6d3b-f4dc-43b9-94a8-ae84da1e9ccb/home
+  ENVIRONMENT_URL: https://make.powerapps.com/environments/e53e6d3b-f4dc-43b9-94a8-ae84da1e9ccb/
   USERNAME: wanli.huo@sony.com
 
 

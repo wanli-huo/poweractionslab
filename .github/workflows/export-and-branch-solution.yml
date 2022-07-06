@@ -9,7 +9,7 @@ on:
       solution_name:
         description: 'name of the solution to worked on from Power Platform'
         required: true
-        default: CommandBarEdit
+        default: ProjectsManagementProcess
        #Do Not change these values
       solution_exported_folder:
         description: 'folder name for staging the exported solution *do not change*'
@@ -26,7 +26,7 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: https://make.powerapps.com/environments/e53e6d3b-f4dc-43b9-94a8-ae84da1e9ccb/home
+  ENVIRONMENT_URL: https://make.powerapps.com/environments/e53e6d3b-f4dc-43b9-94a8-ae84da1e9ccb/solutions/
   USERNAME: wanli.huo@sony.com
 
 
